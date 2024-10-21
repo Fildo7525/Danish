@@ -35,6 +35,7 @@
 | [forskellig](https://ordnet.dk/ddo_en/dict?query=forskellig) | [fʌˈsgεlˀi] | different |  |
 | [forår](https://ordnet.dk/ddo_en/dict?query=forår) | [ˈfɒːˌɒˀ] | spring |  |
 | [frem](https://ordnet.dk/ddo_en/dict?query=frem) | [ˈfʁamˀ] | forth |  |
+| [fået](https://ordnet.dk/ddo_en/dict?query=fået) | [ˈfɔːəð] | received / got |  |
 | [færdig med](https://ordnet.dk/ddo_en/dict?query=færdig) | [ˈfæɐ̯di] | finished with | fertich |
 | [før](https://ordnet.dk/ddo_en/dict?query=før) | [ˈføˀɐ̯] | before |  |
 | [helhed](https://ordnet.dk/ddo_en/dict?query=helhed) | [ˈheːlˌheðˀ] | totaly |  |
@@ -47,10 +48,13 @@
 | [kigger](https://ordnet.dk/ddo_en/dict?query=kigger) | [ˈkigʌ] | looking |  |
 | [klæder ud](https://ordnet.dk/ddo_en/dict?query=klæder%20ud) | [ˈklεːðə ʌp] | dress up |  |
 | [kurv](https://ordnet.dk/ddo_en/dict?query=kurv) | [ˈkuɐ̯ˀw] | basket |  |
+| [kø](https://ordnet.dk/ddo_en/dict?query=kø) | [ˈkøˀ] | queue |  |
+| [lektier](https://ordnet.dk/ddo_en/dict?query=lektier) | [ˈlεgɕə] | homework |  |
 | [lommen](https://ordnet.dk/ddo_en/dict?query=lommen) | [ˈlʌmˀ] | pocket |  |
 | [lyst](https://ordnet.dk/ddo_en/dict?query=lyst) | [ˈløsd] | bright |  |
 | [løg](https://ordnet.dk/ddo_en/dict?query=løg) | [ˈlʌjˀ] | onion |  |
 | [medlem](https://ordnet.dk/ddo_en/dict?query=medlem) | [ˈmεðˌlεmˀ] | member |  |
+| [mennesker](https://ordnet.dk/ddo_en/dict?query=mennesker) | [ˈmεnəsgə] | people |  |
 | [nærheden](https://ordnet.dk/ddo_en/dict?query=nærheden) | [ˈnεɐ̯ˌheðˀ] | the vicinity |  |
 | [omkring](https://ordnet.dk/ddo_en/dict?query=omkring) | [ʌmˈkʁεŋˀ] | around |  |
 | [ordnet](https://ordnet.dk/ddo_en/dict?query=ordnet) |  | to arrange |  |
@@ -60,6 +64,7 @@
 | [ryggen](https://ordnet.dk/ddo_en/dict?query=ryggen) | [ˈʁœg] | the back |  |
 | [samt](https://ordnet.dk/ddo_en/dict?query=samt) | [ˈsɑmˀd] | as well as / and | used to connect words and clauses in lateral order sometimes indicating a greater distance between the clauses than and LANGUAGE USAGE especially written language |
 | [savner](https://ordnet.dk/ddo_en/dict?query=savner) | [ˈsɑwnə] | miss |  |
+| [sent](https://ordnet.dk/ddo_en/dict?query=sent) | [ˈseˀn] | late |  |
 | [skilt](https://ordnet.dk/ddo_en/dict?query=skilt) [om](https://ordnet.dk/ddo_en/dict?query=om) [halsen](https://ordnet.dk/ddo_en/dict?query=20halsen) | [ˈsgelˀd om -ˌhalˀsn] | sign around the neck | idiom |
 | [skræller](https://ordnet.dk/ddo_en/dict?query=skræller) | [ˈsgʁalˀ] | peel |  |
 | [skyller](https://ordnet.dk/ddo_en/dict?query=skyller) |  | rinse -> oplachnut |  |
@@ -72,10 +77,12 @@
 | [stol](https://ordnet.dk/ddo_en/dict?query=stol) | [ˈsdoˀl] | chari |  |
 | [støj](https://ordnet.dk/ddo_en/dict?query=støj) | [ˈsdʌjˀ] | noise |  |
 | [svar](https://ordnet.dk/ddo_en/dict?query=svar) | [ˈsvɑˀ] | answer |  |
+| [svare](https://ordnet.dk/ddo_en/dict?query=svare) | [ˈsvɑːɑ] | respond |  |
 | [svigermor](https://ordnet.dk/ddo_en/dict?query=svigermor) | [ˈsviˀʌˌmoɐ̯] | mother in law |  |
 | [syntes](https://ordnet.dk/ddo_en/dict?query=syntes) | [ˈsyndəs] | thought | past tense of synes (think) |
 | [sø](https://ordnet.dk/ddo_en/dict?query=sø) | [ˈsøˀ] | lake |  |
 | [sølvbryllup](https://ordnet.dk/ddo_en/dict?query=sølvbryllup) |  [ˈsølˌbʁœlʌb] | silver wedding |  |
+| [tilbage](https://ordnet.dk/ddo_en/dict?query=tilbage) | [teˈbæːjə] | back |  |
 | [tit](https://ordnet.dk/ddo_en/dict?query=tit) | [ˈtid] | often |  |
 | [trappen](https://ordnet.dk/ddo_en/dict?query=trappen) | [ˈtʁɑbən] | stairs |  |
 | [tro](https://ordnet.dk/ddo_en/dict?query=tro) | [ˈtʁoˀ] | faith |  |
