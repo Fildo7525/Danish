@@ -6,6 +6,7 @@
 | [anledning](https://ordnet.dk/ddo_en/dict?query=anledning) | [-ˌleðˀneŋ] | occasion |  |
 | [ask](https://ordnet.dk/ddo_en/dict?query=ask) | [ˈasg] | ashes |  |
 | [bagefter](https://ordnet.dk/ddo_en/dict?query=bagefter) | [ˈbæˀjˌεfdʌ] | afterwards |  |
+| [bebor](https://ordnet.dk/ddo_en/dict?query=bebor) | [beˈboˀ] | resident |  |
 | [bedt](https://ordnet.dk/ddo_en/dict?query=bedt) | [ˈbeˀ] | asked |  |
 | [begivenhed](https://ordnet.dk/ddo_en/dict?query=begivenhed) | [beˈgiˀvənˌheðˀ] | event |  |
 | [besked](https://ordnet.dk/ddo_en/dict?query=besked) | [beˈsgeðˀ] | message |  |
@@ -16,10 +17,17 @@
 | [brudeparret](https://ordnet.dk/ddo_en/dict?query=brudeparret) | [] | the bride and groom | prelozene odslova doslova => snubenci |
 | [bryllup](https://ordnet.dk/ddo_en/dict?query=bryllup) | [ˈbʁœlʌb] / [ˈbʁœlɔb] | wedding |  |
 | [byggepladsen](https://ordnet.dk/ddo_en/dict?query=byggepladsen) | [] | the construction side |  |
+| [bænk](https://ordnet.dk/ddo_en/dict?query=bænk) | [ˈbεŋˀg] | bench |  |
+| [bøffe](https://ordnet.dk/ddo_en/dict?query=bøffe) | [ˈbøfə] | steak |  |
 | [desværre](https://ordnet.dk/ddo_en/dict?query=desværre) | [deˈsvæɐ̯ʌ] | unfortunatelly |  |
+| [dug](https://ordnet.dk/ddo_en/dict?query=dug) | ['duˀ] | table cloth -> obrus |  |
+| [dækker](https://ordnet.dk/ddo_en/dict?query=dækker) | [ˈdεgə] | to cover |  |
 | [døbes](https://ordnet.dk/ddo_en/dict?query=døbes) | [ˈdøːbə] | be babtized |  |
 | [efterårsferie](https://ordnet.dk/ddo_en/dict?query=efterårsferie) | [ˈεfdʌɒs-] | Authumn holliday |  |
 | [eget](https://ordnet.dk/ddo_en/dict?query=eget) | [ˈɑjən]  | own |  |
+| [ejendom](https://ordnet.dk/ddo_en/dict?query=ejendom) | [ˈɑjənˌdʌmˀ] | property |  |
+| [en indkøb](https://ordnet.dk/ddo_en/dict?query=indkøb) |  | purchase |  |
+| [en pølse](https://ordnet.dk/ddo_en/dict?query=pølse) | [ˈpølsə] | sausage |  |
 | [faddere](https://ordnet.dk/ddo_en/dict?query=faddere) | [ˈfaðˀʌ] | babtizm sponsors | baptismal witness who, at the Christian baptism, promises to provide for the child's Christian upbringing if the parents are prevented from doing so |
 | [flyttet](https://ordnet.dk/ddo_en/dict?query=flyttet) | [ˈflødə] | moved / relocated |  |
 | [foreslå](https://ordnet.dk/ddo_en/dict?query=foreslå) | [ˈfɒːɒˌslɔˀ] | proposal |  |
@@ -30,6 +38,7 @@
 | [færdig med](https://ordnet.dk/ddo_en/dict?query=færdig) | [ˈfæɐ̯di] | finished with | fertich |
 | [før](https://ordnet.dk/ddo_en/dict?query=før) | [ˈføˀɐ̯] | before |  |
 | [helhed](https://ordnet.dk/ddo_en/dict?query=helhed) | [ˈheːlˌheðˀ] | totaly |  |
+| [hinanden](https://ordnet.dk/ddo_en/dict?query=hinanden) | [hiˈnanən] | each other |  |
 | [hold hinanden ud](https://ordnet.dk/ddo_en/dict?query=hold%20hinanden%20ud) | [] | stick out for each other |  |
 | [hos](https://ordnet.dk/ddo_en/dict?query=hos) | [ˈhɔs] | with |  |
 | [hoster](https://ordnet.dk/ddo_en/dict?query=hoster) | [ˈhoːsdə] | cough |  |
@@ -37,11 +46,14 @@
 | [kaldes](https://ordnet.dk/ddo_en/dict?query=kaldes) | [ˈkalə] | is called |  |
 | [kigger](https://ordnet.dk/ddo_en/dict?query=kigger) | [ˈkigʌ] | looking |  |
 | [klæder ud](https://ordnet.dk/ddo_en/dict?query=klæder%20ud) | [ˈklεːðə ʌp] | dress up |  |
+| [kurv](https://ordnet.dk/ddo_en/dict?query=kurv) | [ˈkuɐ̯ˀw] | basket |  |
 | [lommen](https://ordnet.dk/ddo_en/dict?query=lommen) | [ˈlʌmˀ] | pocket |  |
 | [lyst](https://ordnet.dk/ddo_en/dict?query=lyst) | [ˈløsd] | bright |  |
+| [løg](https://ordnet.dk/ddo_en/dict?query=løg) | [ˈlʌjˀ] | onion |  |
 | [medlem](https://ordnet.dk/ddo_en/dict?query=medlem) | [ˈmεðˌlεmˀ] | member |  |
 | [nærheden](https://ordnet.dk/ddo_en/dict?query=nærheden) | [ˈnεɐ̯ˌheðˀ] | the vicinity |  |
 | [omkring](https://ordnet.dk/ddo_en/dict?query=omkring) | [ʌmˈkʁεŋˀ] | around |  |
+| [ordnet](https://ordnet.dk/ddo_en/dict?query=ordnet) |  | to arrange |  |
 | [pudset denseskone](https://ordnet.dk/ddo_en/dict?query=) | [] | polished the dancing shoes |  |
 | [renhed](https://ordnet.dk/ddo_en/dict?query=renhed) | [ˈʁεːnˌheðˀ] | purity |  |
 | [ret](https://ordnet.dk/ddo_en/dict?query=ret) | [ˈʁad] | right |  |
@@ -49,10 +61,15 @@
 | [samt](https://ordnet.dk/ddo_en/dict?query=samt) | [ˈsɑmˀd] | as well as / and | used to connect words and clauses in lateral order sometimes indicating a greater distance between the clauses than and LANGUAGE USAGE especially written language |
 | [savner](https://ordnet.dk/ddo_en/dict?query=savner) | [ˈsɑwnə] | miss |  |
 | [skilt](https://ordnet.dk/ddo_en/dict?query=skilt) [om](https://ordnet.dk/ddo_en/dict?query=om) [halsen](https://ordnet.dk/ddo_en/dict?query=20halsen) | [ˈsgelˀd om -ˌhalˀsn] | sign around the neck | idiom |
+| [skræller](https://ordnet.dk/ddo_en/dict?query=skræller) | [ˈsgʁalˀ] | peel |  |
+| [skyller](https://ordnet.dk/ddo_en/dict?query=skyller) |  | rinse -> oplachnut |  |
 | [slå pjalterne](https://ordnet.dk/ddo_en/dict?query=slå%20pjalterne) |  | tie the knot |  |
 | [smerte](https://ordnet.dk/ddo_en/dict?query=smerte) | [ˈsmæɐ̯də] | pain |  |
+| [snitter](https://ordnet.dk/ddo_en/dict?query=snitter) | [ˈsnidʌ] | cut |  |
 | [stadig](https://ordnet.dk/ddo_en/dict?query=stadig) | [ˈsdæːði] | still |  |
+| [steger](https://ordnet.dk/ddo_en/dict?query=steger) | [ˈsdɑjə] | to fry |  |
 | [stille](https://ordnet.dk/ddo_en/dict?query=stille) | [ˈsdelə] | quietly |  |
+| [stol](https://ordnet.dk/ddo_en/dict?query=stol) | [ˈsdoˀl] | chari |  |
 | [støj](https://ordnet.dk/ddo_en/dict?query=støj) | [ˈsdʌjˀ] | noise |  |
 | [svar](https://ordnet.dk/ddo_en/dict?query=svar) | [ˈsvɑˀ] | answer |  |
 | [svigermor](https://ordnet.dk/ddo_en/dict?query=svigermor) | [ˈsviˀʌˌmoɐ̯] | mother in law |  |
@@ -68,5 +85,5 @@
 | [vegne](https://ordnet.dk/ddo_en/dict?query=vegne) | [ˈvɑjnə] | on behalf of |  |
 | [vider](https://ordnet.dk/ddo_en/dict?query=vidner) | [ˈviðnə] | witnesses |  |
 | [øvelse](https://ordnet.dk/ddo_en/dict?query=øvelse) | [ˈøːvəlsə] | exercise |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) |  |  |  |
 
