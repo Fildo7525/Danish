@@ -38,5 +38,12 @@ Kærlig hilsen (Good greeting) (Only to those we know wery well)
 Hilsen Jonas (Greeting Jonas)
 
 
+## Exercise
 
+kort - lang
+sprøgsmål i mail?
+hovedsætning - ledsætning -> subordinate and leading senteces
+variation -> inversion
+Vocabulary - ord
+datil, nutil, fortil
 
