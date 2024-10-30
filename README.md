@@ -1,10 +1,12 @@
-# Table of content
+## Table of content
 
  - [Vocabluary](#vocabulary)
  - [Definite form of substantiv](#definite-form-of-substantiv)
+ - [Tenses](#tenses)
+ - [Adjectives](#adjectives)
  - [Modultest](#modultest)
 
-# Vocabulary
+## Vocabulary
 
 | Word | Pronunciation | Translation | Notes |
 | ---- | ------------- |------------ | ----- |
@@ -132,7 +134,7 @@
 | [dumpe](https://ordnet.dk/ddo_en/dict?query=dumpe) |  | did not pass | can be also used (ikke bestå) |
 | [](https://ordnet.dk/ddo_en/dict?query=) |  |  |  |
 
-# Definite form of substantiv
+## Definite form of substantiv
 
 **-ene**
     a chair -> the chair
@@ -147,6 +149,22 @@
 
     two tomatos -> the tomatos
     to tomater - tomaterne
+
+## Tenses
+
+Group 1:
+ -de
+
+Group 2:
+ -te
+
+Group 3:
+ uregelmæssig
+
+## Adjectives
+
+**et** kort varsel - a short notice
+de**t** kort**e** varsel**et** - the short notice
 
 # Modultest
 - en uformel email with
