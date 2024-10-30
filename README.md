@@ -1,3 +1,9 @@
+# Table of content
+
+ - [Vocabluary](#vocabulary)
+ - [Definite form of substantiv](#definite-form-of-substantiv)
+ - [Modultest](#modultest)
+
 # Vocabulary
 
 | Word | Pronunciation | Translation | Notes |
@@ -86,11 +92,11 @@
 | [skyller](https://ordnet.dk/ddo_en/dict?query=skyller) |  | rinse -> oplachnut |  |
 | [slå pjalterne](https://ordnet.dk/ddo_en/dict?query=slå%20pjalterne) |  | tie the knot |  |
 | [smerte](https://ordnet.dk/ddo_en/dict?query=smerte) | [ˈsmæɐ̯də] | pain |  |
-| [snitter](https://ordnet.dk/ddo_en/dict?query=snitter) | [ˈsnidʌ] | cut |  |
+| [at snitter](https://ordnet.dk/ddo_en/dict?query=snitter) | [ˈsnidʌ] | to cut |  |
 | [stadig](https://ordnet.dk/ddo_en/dict?query=stadig) | [ˈsdæːði] | still |  |
-| [steger](https://ordnet.dk/ddo_en/dict?query=steger) | [ˈsdɑjə] | to fry |  |
+| [at steger](https://ordnet.dk/ddo_en/dict?query=steger) | [ˈsdɑjə] | to fry |  |
 | [stille](https://ordnet.dk/ddo_en/dict?query=stille) | [ˈsdelə] | quietly |  |
-| [stol](https://ordnet.dk/ddo_en/dict?query=stol) | [ˈsdoˀl] | chari |  |
+| [stol](https://ordnet.dk/ddo_en/dict?query=stol) | [ˈsdoˀl] | chair |  |
 | [støj](https://ordnet.dk/ddo_en/dict?query=støj) | [ˈsdʌjˀ] | noise |  |
 | [støvsugere](https://ordnet.dk/ddo_en/dict?query=støvsugere) | [ˈsdøwˌsuˀʌ] | vacuum cleaner |  |
 | [svar](https://ordnet.dk/ddo_en/dict?query=svar) | [ˈsvɑˀ] | answer |  |
@@ -111,6 +117,41 @@
 | [udtale](https://ordnet.dk/ddo_en/dict?query=udtale) |  [-ˌtæːlə] | pronauntiation |  |
 | [vegne](https://ordnet.dk/ddo_en/dict?query=vegne) | [ˈvɑjnə] | on behalf of |  |
 | [vider](https://ordnet.dk/ddo_en/dict?query=vidner) | [ˈviðnə] | witnesses |  |
+| [vielse](https://ordnet.dk/ddo_en/dict?query=vielse) |  | wedding |  |
 | [øvelse](https://ordnet.dk/ddo_en/dict?query=øvelse) | [ˈøːvəlsə] | exercise |  |
+| [et ærligtsvar](https://ordnet.dk/ddo_en/dict?query=ærligtsvar) |  | an honest answer |  |
+| [ærlig](https://ordnet.dk/ddo_en/dict?query=ærlig) |  | honest |  |
+| [uærlig](https://ordnet.dk/ddo_en/dict?query=uærlig) |  | dishonest |  |
+| [at hente](https://ordnet.dk/ddo_en/dict?query=hente) |  | to pick up |  |
+| [at ændr](https://ordnet.dk/ddo_en/dict?query=ændr) |  | to change |  |
+| [forskellen](https://ordnet.dk/ddo_en/dict?query=forskellen) |  | the difference |  |
+| [plejede](https://ordnet.dk/ddo_en/dict?query=plejede) |  | used to |  |
+| [flot](https://ordnet.dk/ddo_en/dict?query=flot) |  | nice |  |
+| [forslog](https://ordnet.dk/ddo_en/dict?query=forslog) |  | suggested |  |
+| [bestå](https://ordnet.dk/ddo_en/dict?query=bestå) |  | passed (the test) |  |
+| [dumpe](https://ordnet.dk/ddo_en/dict?query=dumpe) |  | did not pass | can be also used (ikke bestå) |
 | [](https://ordnet.dk/ddo_en/dict?query=) |  |  |  |
 
+# Definite form of substantiv
+
+**-ene**
+    a chair -> the chair
+    en stol -> stolen
+
+    two charis -> the chairs
+    to stole -> stolene
+
+**-erne**
+    a tomato -> the tomato
+    en tomat -> tamaten
+
+    two tomatos -> the tomatos
+    to tomater - tomaterne
+
+# Modultest
+- en uformel email with
+- minumum 70 ord
+- 30 minuter
+- papirordpog
+- toipcs - boilig, sudie, familie, transport, sport -> everyday topics
+What is check if you understood the questions, the setting, vocab and the grammar
