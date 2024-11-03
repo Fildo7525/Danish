@@ -158,6 +158,12 @@
 
 ## Tenses
 
+To say some time `ago` in danish
+
+    for <time> siden
+
+> __**NOTE:**__ for fire uge siden => 4 weeks ago
+
 Group 1:
  -de
 
