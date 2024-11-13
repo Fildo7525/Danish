@@ -137,6 +137,34 @@
 | [vielse](https://ordnet.dk/ddo_en/dict?query=vielse) | [ˈviˀəlsə] | wedding |  |
 | [ærlig](https://ordnet.dk/ddo_en/dict?query=ærlig) | [ˈæɐ̯li] | honest |  |
 | [øvelse](https://ordnet.dk/ddo_en/dict?query=øvelse) | [ˈøːvəlsə] | exercise |  |
+| [skade](https://ordnet.dk/ddo_en/dict?query=skade) | [] | injury |  |
+| [væltet](https://ordnet.dk/ddo_en/dict?query=) | [] | overturned |  |
+| [slået](https://ordnet.dk/ddo_en/dict?query=) | [] | hit |  |
+| [smerter](https://ordnet.dk/ddo_en/dict?query=) | [] | pain |  |
+| [ret meget](https://ordnet.dk/ddo_en/dict?query=) | [] | that much |  |
+| [mest](https://ordnet.dk/ddo_en/dict?query=) | [] | most |  |
+| [komme til skade](https://ordnet.dk/ddo_en/dict?query=) | [] | get injured |  |
+| [kedet](https://ordnet.dk/ddo_en/dict?query=) | [] | bored |  |
+| [forbi](https://ordnet.dk/ddo_en/dict?query=) | [] | past |  |
+| [støttet](https://ordnet.dk/ddo_en/dict?query=) | [] | supported |  |
+| [forskellig](https://ordnet.dk/ddo_en/dict?query=) | [] | different |  |
+| [retning](https://ordnet.dk/ddo_en/dict?query=) | [] | direction |  |
+| [udviklede](https://ordnet.dk/ddo_en/dict?query=) | [] | developed |  |
+| [opleve](https://ordnet.dk/ddo_en/dict?query=) | [] | experience |  |
+| [dele af](https://ordnet.dk/ddo_en/dict?query=) | [] | parts of |  |
+| [rart](https://ordnet.dk/ddo_en/dict?query=) | [] | nice/peasent/convinient |  |
+| [golfbanen](https://ordnet.dk/ddo_en/dict?query=) | [] | the golf course |  |
+| [masser](https://ordnet.dk/ddo_en/dict?query=) | [] | plenty |  |
+| [jord](https://ordnet.dk/ddo_en/dict?query=) | [] | earth |  |
+| [linker](https://ordnet.dk/ddo_en/dict?query=) | [] | looks like |  |
+| [bevar](https://ordnet.dk/ddo_en/dict?query=) | [] | maintain / keep |  |
+| [kontakten](https://ordnet.dk/ddo_en/dict?query=) | [] | the kontact |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+
+Hvorfor gør han det alligevel - Why deoes he do it anyway
 
 ## Definite form of substantiv
 
@@ -172,6 +200,14 @@ Group 2:
 
 Group 3:
  uregelmæssig
+
+# Conjunction 
+
+ et kontor
+ kontoret
+
+ været
+
 
 ## Adjectives
 
