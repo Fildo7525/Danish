@@ -59,28 +59,28 @@ Hans stor**e** stol
 
 # Exrcise
 
- - En pæn**e** have
+ - En pæn have
  - Et dejlig**t** område
- - Nogle fin**e** blonster
+ - Nogle fin**e** blomster
  - Et ny**t** fjernsyn
  - To god**e** venner
- - En venlig**e** mand
+ - En venlig mand
  - Et høj**t** bord
  - Et par hvid**e** bukser
- - En svær**e** opgave
+ - En svær opgave
  - Naboerne er flink**e**
- - Filmen er kedelig**e** (boring)
+ - Filmen er kedelig (boring)
  - Vejret er dårlig**t**
  - Det er hyggelig**t**
  - Bærnene er sød**e**
- - Han er sur**e** ???
+ - Han er sur
  - Vandet er varm**t**
  - De er dygtig**e** (sillfull)
  - Deres ny**e** hus er stor
- - Den gammel**e** lejlighed var billig
- - De er glad**e** for det flot hus
+ - Den gamel**e** lejlighed var billig
+ - De er glad**e** for det flot**e** hus
  - De maler de hvid**e** wægge (walls)
- - De nyder det god**t** vejr ude i deres dejlig**e** have
+ - De nyder det god**e** vejr ude i deres dejlig**e** have
 
  18
 

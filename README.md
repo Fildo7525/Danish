@@ -159,12 +159,33 @@
 | [linker](https://ordnet.dk/ddo_en/dict?query=) | [] | looks like |  |
 | [bevar](https://ordnet.dk/ddo_en/dict?query=) | [] | maintain / keep |  |
 | [kontakten](https://ordnet.dk/ddo_en/dict?query=) | [] | the kontact |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [bekymrede](https://ordnet.dk/ddo_en/dict?query=) | [] | worried |  |
+| [et slot](https://ordnet.dk/ddo_en/dict?query=) | [] | castle |  |
+| [skør](https://ordnet.dk/ddo_en/dict?query=) | [] | crazy |  |
+| [ren](https://ordnet.dk/ddo_en/dict?query=) | [] | clean |  |
+| [søskende](https://ordnet.dk/ddo_en/dict?query=) | [] | siblings |  |
+| [krøller](https://ordnet.dk/ddo_en/dict?query=) | [] | curls |  |
+| [slanke](https://ordnet.dk/ddo_en/dict?query=) | [] | slim |  |
+| [digte](https://ordnet.dk/ddo_en/dict?query=) | [] | poems |  |
+| [små](https://ordnet.dk/ddo_en/dict?query=) | [] | small |  |
+| [streg ud](https://ordnet.dk/ddo_en/dict?query=) | [] | strike throught |  |
+| [annonce](https://ordnet.dk/ddo_en/dict?query=) | [] | announcement |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
+hverken - eller => either - or
+
 Hvorfor gør han det alligevel - Why deoes he do it anyway
+
+## both - bagge / både
+
+We use både to specify what two things like 
+både vand og soda
+
+if we do not want to specify we use bagge
+bagge boger
+ren - clean
+beskidt [beskit] - dirty
 
 ## Definite form of substantiv
 
