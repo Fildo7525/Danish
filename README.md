@@ -159,12 +159,38 @@
 | [væltet](https://ordnet.dk/ddo_en/dict?query=væltet) | [vælte] | overturned |  |
 | [ærlig](https://ordnet.dk/ddo_en/dict?query=ærlig) | [ˈæɐ̯li] | honest |  |
 | [øvelse](https://ordnet.dk/ddo_en/dict?query=øvelse) | [ˈøːvəlsə] | exercise |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [midt](https://ordnet.dk/ddo_en/dict?query=) | [] | middle |  |
+| [bagefter](https://ordnet.dk/ddo_en/dict?query=) | [] | afterwards |  |
+| [pludselig](https://ordnet.dk/ddo_en/dict?query=) | [] | suddenly |  |
+| [blødt](https://ordnet.dk/ddo_en/dict?query=) | [] | soft |  |
+| [tilfreds](https://ordnet.dk/ddo_en/dict?query=) | [] | satisfied |  |
+| [bestilt](https://ordnet.dk/ddo_en/dict?query=) | [] | order |  |
+| [række](https://ordnet.dk/ddo_en/dict?query=) | [rajke] | row |  |
+| [mundtlig](https://ordnet.dk/ddo_en/dict?query=) | [] | oral |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
 Hvorfor gør han det alligevel - Why deoes he do it anyway
+
+## D pronauntiation
+
+1. Hårdt **D**
+
+- Danmark, det, dejlig, dessert
+
+2. Blødt **D** (soft)
+
+- he**dd**er, gl**a**d, m**a**d r**ø**d, br**ø**d, f**ødd**er, m**ødd**er (nuts, orechy)
+- After a vower or double d
+
+3. Stumt (silent) **D**
+
+- nd, ld, rd, ds, dt
+- si**d**ste, An**d**ers, li**d**t, (go**d**, in everyday language otherwise in the previous category), spen**d**ene
+
+:note: Anders and - Donuld duck
+
+
 
 ## Definite form of substantiv
 
@@ -201,7 +227,7 @@ Group 2:
 Group 3:
  uregelmæssig
 
-# Conjunction 
+# Conjunction
 
  et kontor
  kontoret
@@ -219,5 +245,14 @@ de**t** kort**e** varsel**et** - the short notice
 - 30 minuter
 - papirordpog (paper dictionary)
 - toipcs - boilig, sudie, familie, transport, sport -> everyday topics
+
+Mundtlig test - oral test
+
+1. 2 minutes presentation med mindmap - spørgsmål 3 minutter
+- Topics: arbejde, boilig, sprogskole, fritid (activity), sudie (must be studying), praktik
+
+2. Lav spørgsmål - 5 minuter
+- 1 question per one square
+- 2 different topics every topic with 3 different boxes
 
 What is check if you understood the questions, the setting, vocab and the grammar
