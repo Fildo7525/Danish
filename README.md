@@ -169,8 +169,16 @@
 | [mundtlig](https://ordnet.dk/ddo_en/dict?query=) | [] | oral |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
 Hvorfor gør han det alligevel - Why deoes he do it anyway
+
+Ved totiden - around 2 o'clock
+Ved --tiden
 
 ## D pronauntiation
 
