@@ -60,7 +60,6 @@
 | [forklarer](https://ordnet.dk/ddo_en/dict?query=forklarer) |  [fʌˈklɑˀɑ] | explain | <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="https://static.ordnet.dk/mp3/11014/11014660_1.mp3"></audio> |
 | [forskellen](https://ordnet.dk/ddo_en/dict?query=forskellen) | [ˈfɒːˌsgεlˀ] | the difference |  |
 | [forskellig](https://ordnet.dk/ddo_en/dict?query=forskellig) | [fʌˈsgεlˀi] | different |  |
-| [forskellig](https://ordnet.dk/ddo_en/dict?query=forskellig) | [fʌˈsgεlˀi] | different |  |
 | [forslog](https://ordnet.dk/ddo_en/dict?query=forslog) | [fʌˈslɔˀ] | suggested |  |
 | [forår](https://ordnet.dk/ddo_en/dict?query=forår) | [ˈfɒːˌɒˀ] | spring |  |
 | [frem](https://ordnet.dk/ddo_en/dict?query=frem) | [ˈfʁamˀ] | forth |  |
@@ -68,7 +67,7 @@
 | [færdig med](https://ordnet.dk/ddo_en/dict?query=færdig) | [ˈfæɐ̯di] | finished with | fertich |
 | [færdiguddannet](https://ordnet.dk/ddo_en/dict?query=færdiguddannet) | | trained in local skills |  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="https://static.ordnet.dk/mp3/11016/11016716_1.mp3"></a> |
 | [før](https://ordnet.dk/ddo_en/dict?query=før) | [ˈføˀɐ̯] | before |  |
-| [golfbanen](https://ordnet.dk/ddo_en/dict?query=) | [] | the golf course |  |
+| [golfbanen](https://ordnet.dk/ddo_en/dict?query=golfbanen) | [] | the golf course |  |
 | [helhed](https://ordnet.dk/ddo_en/dict?query=helhed) | [ˈheːlˌheðˀ] | totaly |  |
 | [hente](https://ordnet.dk/ddo_en/dict?query=hente) | [ˈhεndə] | pick  |  |
 | [hinanden](https://ordnet.dk/ddo_en/dict?query=hinanden) | [hiˈnanən] | each other |  |
@@ -83,7 +82,7 @@
 | [kigger](https://ordnet.dk/ddo_en/dict?query=kigger) | [ˈkigʌ] | looking |  |
 | [klæder ud](https://ordnet.dk/ddo_en/dict?query=klæder%20ud) | [ˈklεːðə ʌp] | dress up |  |
 | [komme til skade](https://ordnet.dk/ddo_en/dict?query=) | [] | get injured |  |
-| [kontakten](https://ordnet.dk/ddo_en/dict?query=) | [] | the kontact |  |
+| [en kontakt](https://ordnet.dk/ddo_en/dict?query=kontakt) | [kɔnˈtɑgd] | kontact |  |
 | [kurv](https://ordnet.dk/ddo_en/dict?query=kurv) | [ˈkuɐ̯ˀw] | basket |  |
 | [kø](https://ordnet.dk/ddo_en/dict?query=kø) | [ˈkøˀ] | queue |  |
 | [lektier](https://ordnet.dk/ddo_en/dict?query=lektier) | [ˈlεgɕə] | homework |  |
@@ -97,7 +96,7 @@
 | [medlem](https://ordnet.dk/ddo_en/dict?query=medlem) | [ˈmεðˌlεmˀ] | member |  |
 | [mellem](https://ordnet.dk/ddo_en/dict?query=mellem) | [ˈmεləm]  | between |  |
 | [mennesker](https://ordnet.dk/ddo_en/dict?query=mennesker) | [ˈmεnəsgə] | people |  |
-| [mest](https://ordnet.dk/ddo_en/dict?query=) | [] | most |  |
+| [mest](https://ordnet.dk/ddo_en/dict?query=mest) | [ˈmeˀsd] | most |  |
 | [møbler](https://ordnet.dk/ddo_en/dict?query=møbler) | [ˈmøˀbəl] | furniture |  |
 | [nærheden](https://ordnet.dk/ddo_en/dict?query=nærheden) | [ˈnεɐ̯ˌheðˀ] | the vicinity |  |
 | [omkring](https://ordnet.dk/ddo_en/dict?query=omkring) | [ʌmˈkʁεŋˀ] | around |  |
@@ -159,20 +158,14 @@
 | [væltet](https://ordnet.dk/ddo_en/dict?query=væltet) | [vælte] | overturned |  |
 | [ærlig](https://ordnet.dk/ddo_en/dict?query=ærlig) | [ˈæɐ̯li] | honest |  |
 | [øvelse](https://ordnet.dk/ddo_en/dict?query=øvelse) | [ˈøːvəlsə] | exercise |  |
-| [midt](https://ordnet.dk/ddo_en/dict?query=) | [] | middle |  |
-| [bagefter](https://ordnet.dk/ddo_en/dict?query=) | [] | afterwards |  |
-| [pludselig](https://ordnet.dk/ddo_en/dict?query=) | [] | suddenly |  |
-| [blødt](https://ordnet.dk/ddo_en/dict?query=) | [] | soft |  |
-| [tilfreds](https://ordnet.dk/ddo_en/dict?query=) | [] | satisfied |  |
-| [bestilt](https://ordnet.dk/ddo_en/dict?query=) | [] | order |  |
+| [midt](https://ordnet.dk/ddo_en/dict?query=midt) | [ˈmed] | middle |  |
+| [begefter](https://ordnet.dk/ddo_en/dict?query=begefter) | [] | afterwards |  |
+| [pludselig](https://ordnet.dk/ddo_en/dict?query=pludselig) | ['pluseli] | suddenly |  |
+| [blød](https://ordnet.dk/ddo_en/dict?query=blød) | [ˈbløˀð] | soft |  |
+| [tilfreds](https://ordnet.dk/ddo_en/dict?query=tilfreds) | [teˈfʁεs] | satisfied |  |
+| [bestilt](https://ordnet.dk/ddo_en/dict?query=bestilt) | [beˈsdelˀə] | order |  |
 | [række](https://ordnet.dk/ddo_en/dict?query=) | [rajke] | row |  |
-| [mundtlig](https://ordnet.dk/ddo_en/dict?query=) | [] | oral |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [mundtlig](https://ordnet.dk/ddo_en/dict?query=mundtlig) | [ˈmɔndli] | oral |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
 Hvorfor gør han det alligevel - Why deoes he do it anyway
