@@ -187,7 +187,7 @@ Ved --tiden
 3. Stumt (silent) **D**
 
 - nd, ld, rd, ds, dt
-- si**d**ste, An**d**ers, li**d**t, (go**d**, in everyday language otherwise in the previous category), spen**d**ene
+- si**ds**te, A**nd**ers, li**dt**, (go**d**, in everyday language otherwise in the previous category), spe**nd**ene
 
 :note: Anders and - Donuld duck
 
@@ -197,19 +197,23 @@ Ved --tiden
 
 **-ene**
 
-    a chair -> the chair
-    en stol -> stolen
-
-    two charis -> the chairs
-    to stole -> stolene
+| English | Danish |
+| --- | --- |
+| a chair | en stol |
+| the chair | stol**en** |
+| --- | --- |
+| two charis | to stol**e** |
+| the chairs | stol**ene** |
 
 **-erne**
 
-    a tomato -> the tomato
-    en tomat -> tamaten
-
-    two tomatos -> the tomatos
-    to tomater - tomaterne
+| English | Danish |
+| --- | --- |
+| a tomato | en tomat |
+| the tomato | tamat**en** |
+| --- | --- |
+| two tomatos | to tomat**er** |
+| the tomatos | tomat**erne** |
 
 ## Tenses
 
@@ -245,7 +249,7 @@ de**t** kort**e** varsel**et** - the short notice
 - en uformel email med minumum 70 (hlaffirs) ord
 - 30 minuter
 - papirordpog (paper dictionary)
-- toipcs - boilig, sudie, familie, transport, sport -> everyday topics
+- toipcs - boilig, studie, familie, transport, sport -> everyday topics
 
 Mundtlig test - oral test
 
