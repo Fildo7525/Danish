@@ -270,3 +270,38 @@ Mundtlig test - oral test
 - 2 different topics every topic with 3 different boxes
 
 What is check if you understood the questions, the setting, vocab and the grammar
+
+## Jo
+
+Du er fra Slovakiet ikke? \
+Jo, jag er.
+
+A: Det er koldt udenfor \
+B: Ja, det er jo januar.
+
+- It is obvious, everybody knows
+
+## Fremtid
+
+1. Jeg __skil__ til Århus pl lørdag.
+ - this is a plan.
+ - I am gonig to ...
+
+2. Vi **vil** til Århus på lørdag
+ - Far in the future not decided.
+ - I will ...
+
+3. Jeg **tager** til Århs **på lørdag**.
+ -
+
+Jeg skal lave mad i aften
+ skal verb 1
+ vil verb 2
+
+Jeg skal **til England**
+ - when we use the second werb
+ - we use it only when we want to emphesise
+
+    Jeg skal **cycle** til Kertemnde
+    I am emphesising that I will cycle
+
