@@ -87,6 +87,8 @@
 | [kø](https://ordnet.dk/ddo_en/dict?query=kø) | [ˈkøˀ] | queue |  |
 | [lektier](https://ordnet.dk/ddo_en/dict?query=lektier) | [ˈlεgɕə] | homework |  |
 | [linker](https://ordnet.dk/ddo_en/dict?query=linker) | [ˈleŋgə] | looks like |  |
+| [lokal](https://ordnet.dk/ddo_en/dict?query=lokal) | [loˈkæˀl] | local |  |
+| [området](https://ordnet.dk/ddo_en/dict?query=området) | [ˈʌmˌʁɔːðə] | the area |  |
 | [lokalområdet](https://ordnet.dk/ddo_en/dict?query=lokalområdet) |  | local area | <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback" src="https://static.ordnet.dk/mp3/11030/11030874_1.mp3"></a>  |
 | [lommen](https://ordnet.dk/ddo_en/dict?query=lommen) | [ˈlʌmˀ] | pocket |  |
 | [lyst](https://ordnet.dk/ddo_en/dict?query=lyst) | [ˈløsd] | bright |  |
@@ -164,9 +166,16 @@
 | [blød](https://ordnet.dk/ddo_en/dict?query=blød) | [ˈbløˀð] | soft |  |
 | [tilfreds](https://ordnet.dk/ddo_en/dict?query=tilfreds) | [teˈfʁεs] | satisfied |  |
 | [bestilt](https://ordnet.dk/ddo_en/dict?query=bestilt) | [beˈsdelˀə] | order |  |
-| [række](https://ordnet.dk/ddo_en/dict?query=) | [rajke] | row |  |
+| [række](https://ordnet.dk/ddo_en/dict?query=række) | [rajke] |  row |  |
 | [mundtlig](https://ordnet.dk/ddo_en/dict?query=mundtlig) | [ˈmɔndli] | oral |  |
-| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
+| [samler](https://ordnet.dk/ddo_en/dict?query=samler) | [ˈsɑmlʌ] | collect |  |
+| [end](https://ordnet.dk/ddo_en/dict?query=end) | [ˈεn] | than | more than |
+| [derefter](https://ordnet.dk/ddo_en/dict?query=derefter) | [ˈdεˀɐ̯ˌεfdʌ] | then |  |
+| [såden noget](https://ordnet.dk/ddo_en/dict?query=) |  | something like that |  |
+| [lad](https://ordnet.dk/ddo_en/dict?query=lad) | [ˈlað] | let |  |
+| [lad os bare gøre det](https://ordnet.dk/ddo_en/dict?query=) |  | Let's just do it |  |
+| [fortræker](https://ordnet.dk/ddo_en/dict?query=fortræker) | [] | prefer |  |
+
 
 Hvorfor gør han det alligevel - Why deoes he do it anyway
 
