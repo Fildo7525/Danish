@@ -175,6 +175,11 @@
 | [lad](https://ordnet.dk/ddo_en/dict?query=lad) | [ˈlað] | let |  |
 | [lad os bare gøre det](https://ordnet.dk/ddo_en/dict?query=) |  | Let's just do it |  |
 | [fortræker](https://ordnet.dk/ddo_en/dict?query=fortræker) | [] | prefer |  |
+| [udstilling](https://ordnet.dk/ddo_en/dict?query=udstilling) | [] | exhibition |  |
+| [omvisning](https://ordnet.dk/ddo_en/dict?query=omvisning) | [-ˌviˀsneŋ] | tour |  |
+| [mod](https://ordnet.dk/ddo_en/dict?query=mod) | [ˈmoˀð] | against |  |
+| [helt vild](https://ordnet.dk/ddo_en/dict?query=mod) | [] | absolutely crazy |  |
+| [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
 
 Hvorfor gør han det alligevel - Why deoes he do it anyway
@@ -305,3 +310,8 @@ Jeg skal **til England**
     Jeg skal **cycle** til Kertemnde
     I am emphesising that I will cycle
 
+Jeg mødte**s** med mid veninde i går.
+Jeg mødte min veninde i går
+
+mødtes - we had an agreement to meet
+mødte - we have just randomly met
