@@ -179,8 +179,27 @@
 | [omvisning](https://ordnet.dk/ddo_en/dict?query=omvisning) | [-ˌviˀsneŋ] | tour |  |
 | [mod](https://ordnet.dk/ddo_en/dict?query=mod) | [ˈmoˀð] | against |  |
 | [helt vild](https://ordnet.dk/ddo_en/dict?query=mod) | [] | absolutely crazy |  |
+| [gemmler](https://ordnet.dk/ddo_en/dict?query=gemmler) | [] | forget |  |
+| [tydeligt](https://ordnet.dk/ddo_en/dict?query=tydeligt) | [ ] | clearly |  |
+| [kedede](https://ordnet.dk/ddo_en/dict?query=kedede) | [ˈkeːðə] | bored |  |
+| [skilles](https://ordnet.dk/ddo_en/dict?query=skilles) | [ˈsgelə] | separate |  |
+| [skabe](https://ordnet.dk/ddo_en/dict?query=skabe) | [ondt] | create |  |
+| [overvældende](https://ordnet.dk/ddo_en/dict?query=overvældende) | [-ˌvεlˀənə] | overwhelming |  |
+| [nogenlunde](https://ordnet.dk/ddo_en/dict?query=nogenlunde) | [ˈnoːənˈlɔnə] | so so |  |
+| [hjemve](https://ordnet.dk/ddo_en/dict?query=hjemve) | [] | homesick | Jeg har hjemve. |
+| [tryghed](https://ordnet.dk/ddo_en/dict?query=tryghed) | [ˈtʁœgˌheðˀ] | safety |  |
+| [tillid](https://ordnet.dk/ddo_en/dict?query=tillid) | [ˈteˌliðˀ] | trust |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
+en/én
+De har en bil - They have a car
+De har én bil - They have one car
+
+udtale
+havde - hell
+skulle - sku
+kunne - ku
+måtte - måt
 
 Hvorfor gør han det alligevel - Why deoes he do it anyway
 
