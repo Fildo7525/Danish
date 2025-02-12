@@ -10,6 +10,16 @@
 
 | Word | Pronunciation | Translation | Notes |
 | ---- | ------------- |------------ | ----- |
+| [efterhånden](https://ordnet.dk/ddo_en/dict?query=efterhånden) | [εfdʌˈhʌnˀən] | gradually |  |
+| [så](https://ordnet.dk/ddo_en/dict?query=så) | [ˈsʌ] | then |  |
+| [sammenhængende](https://ordnet.dk/ddo_en/dict?query=sammenhængende) | [-ˌhεŋˀənə] | coherent - continuous |  |
+| [forhold](https://ordnet.dk/ddo_en/dict?query=forhold) | [ˈfɒːˌhʌlˀ] | relationship |  |
+| [skændes](https://ordnet.dk/ddo_en/dict?query=skændes) | [ ] | quarell |  |
+| [nødt til](https://ordnet.dk/ddo_en/dict?query=nødt til) | [] |  have to |  |
+| [at blev han student](https://ordnet.dk/ddo_en/dict?query=at blev han student) | [] |  ferdig med gymnasium |  |
+| [forsatte](https://ordnet.dk/ddo_en/dict?query=forsatte) | [fʌˈsεdə] | continued |  |
+| [dygtig](https://ordnet.dk/ddo_en/dict?query=dygtig) | [ ] | skillful |  |
+| [indsæt](https://ordnet.dk/ddo_en/dict?query=indsæt) | [] | insert |  |
 | [afdeling](https://ordnet.dk/ddo_en/dict?query=afdeling) | [ˈɑwˌdeˀleŋ] | department |  |
 | [afhængige](https://ordnet.dk/ddo_en/dict?query=afhængige) | [ɑwˈhεŋˀi] | dependent |  |
 | [aflevere](https://ordnet.dk/ddo_en/dict?query=aflevere) | [ˈɑwleˌveˀʌ] | deliver |  |
