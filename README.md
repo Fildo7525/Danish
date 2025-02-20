@@ -11,6 +11,9 @@
 | Word | Pronunciation | Translation | Notes |
 | ---- | ------------- |------------ | ----- |
 | [efterhånden](https://ordnet.dk/ddo_en/dict?query=efterhånden) | [εfdʌˈhʌnˀən] | gradually |  |
+| [fordele](https://ordnet.dk/ddo_en/dict?query=fordele) | [fʌˈdeˀlə] |  advantages |  |
+| [ulemper](https://ordnet.dk/ddo_en/dict?query=ulemper) | [ ] | disadvantages |  |
+| [travlt](https://ordnet.dk/ddo_en/dict?query=travlt) | [ˈtʁɑwˀl] | busy |  |
 | [så](https://ordnet.dk/ddo_en/dict?query=så) | [ˈsʌ] | then |  |
 | [sammenhængende](https://ordnet.dk/ddo_en/dict?query=sammenhængende) | [-ˌhεŋˀənə] | coherent - continuous |  |
 | [forhold](https://ordnet.dk/ddo_en/dict?query=forhold) | [ˈfɒːˌhʌlˀ] | relationship |  |
@@ -269,6 +272,8 @@
 | [øgede](https://ordnet.dk/ddo_en/dict?query=øgede) | [ ] | increased |  |
 | [øvelse](https://ordnet.dk/ddo_en/dict?query=øvelse) | [ˈøːvəlsə] | exercise |  |
 | [øvrige](https://ordnet.dk/ddo_en/dict?query=øvrige) | [ˈøwʁi] | other |  |
+| [hjemløs](https://ordnet.dk/ddo_en/dict?query=hjemløs) | [] | homeless |  |
+| [skrald](https://ordnet.dk/ddo_en/dict?query=skrald) | [ˈsgʁɑlˀ] | trahs |  |
 | [](https://ordnet.dk/ddo_en/dict?query=) | [] |  |  |
 
 en/én
@@ -414,3 +419,18 @@ Jeg mødte min veninde i går
 
 mødtes - we had an agreement to meet
 mødte - we have just randomly met
+
+## Når
+ - Nutid (generelt)
+ - fremtil
+ - Datid (flere gange)
+
+## Da
+ - Datid (kun 1 gang)
+
+Jeg besøgte min morfar, når jeg rejste til Spanien
+ - I visit him every time I get there.
+
+Jeg besøgte min morfar, da jeg rejste til Spanien
+ - I visited him only once
+
