@@ -16,3 +16,19 @@ Anden
 ## Starting with a place
 
 her bliver de så en uge
+
+# Where we use It
+
+**I moregn** skal jeg tidligt op
+__Tid__
+
+**I Odense** bor vi
+__sted__
+
+**Måske** regner det i morgen
+__Adverb__
+Nungang - sometimes
+
+**Den kjole** vil jeg gerne købe
+__Object__
+Det ved jeg ikke.
