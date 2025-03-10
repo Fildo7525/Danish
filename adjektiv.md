@@ -61,7 +61,7 @@ Hans stor**e** stol
 
  - En pæn**e** have
  - Et dejlig**t** område
- - Nogle fin**e** blonster
+ - Nogle fin**e** blomster
  - Et ny**t** fjernsyn
  - To god**e** venner
  - En venlig**e** mand
