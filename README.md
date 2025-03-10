@@ -8,8 +8,14 @@
 
 ## Vocabulary
 
+I (he,we) kunne godt tænke mig (sig/os/..) - I would ike to
+
+at [o] + infinitiv
+at [at] - that
+
 | Word | Pronunciation | Translation | Notes |
 | ---- | ------------- |------------ | ----- |
+| [bland andet](https://ordnet.dk/ddo_en/dict?query=bland andet) | [] |  .. |  |
 | [efterhånden](https://ordnet.dk/ddo_en/dict?query=efterhånden) | [εfdʌˈhʌnˀən] | gradually |  |
 | [fordele](https://ordnet.dk/ddo_en/dict?query=fordele) | [fʌˈdeˀlə] |  advantages |  |
 | [ulemper](https://ordnet.dk/ddo_en/dict?query=ulemper) | [ ] | disadvantages |  |
