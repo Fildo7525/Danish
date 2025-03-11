@@ -16,6 +16,7 @@ at [at] - that
 | Word | Pronunciation | Translation | Notes |
 | ---- | ------------- |------------ | ----- |
 | [bland andet](https://ordnet.dk/ddo_en/dict?query=bland andet) | [] |  .. |  |
+| [opsummer](https://ordnet.dk/ddo_en/dict?query=opsummer) | [] | summarize |  |
 | [efterhånden](https://ordnet.dk/ddo_en/dict?query=efterhånden) | [εfdʌˈhʌnˀən] | gradually |  |
 | [fordele](https://ordnet.dk/ddo_en/dict?query=fordele) | [fʌˈdeˀlə] |  advantages |  |
 | [ulemper](https://ordnet.dk/ddo_en/dict?query=ulemper) | [ ] | disadvantages |  |
